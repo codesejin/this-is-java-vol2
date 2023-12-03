@@ -1,4 +1,4 @@
-package org.example.chapter16;
+package org.example.chapter16.stream;
 
 import java.io.BufferedReader;
 import java.io.File;

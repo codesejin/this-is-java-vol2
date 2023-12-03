@@ -1,4 +1,6 @@
-package org.example.chapter16;
+package org.example.chapter16.stream;
+
+import org.example.chapter16.Member;
 
 import java.util.Arrays;
 import java.util.List;

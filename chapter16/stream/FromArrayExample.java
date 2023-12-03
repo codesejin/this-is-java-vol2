@@ -1,4 +1,4 @@
-package org.example.chapter16;
+package org.example.chapter16.stream;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
